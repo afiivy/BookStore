@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BookStoreApp</string>
+    <string name="book_details">Book Details</string>
+    <string name="supplier_s_name">Supplier\'s Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="quantity">Quantity</string>
+    <string name="price">Price</string>
+    <string name="book_name">Book Name</string>
+    <string name="overview">overview</string>
+    <string name="quantity_one">one quantity</string>
+    <string name="quantity_two">two quantities</string>
+    <string name="quantity_three">three quantities</string>
+    <string name="quantity_four">four quantities</string>
+    <string name="quantity_five">Five quantities</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="insert_dummy_data">Insert Dummy Data</string>
+    <string name="delete_all_books">Delete All Books</string>
+</resources>
